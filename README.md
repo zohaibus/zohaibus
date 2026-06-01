@@ -64,7 +64,7 @@ All MIT licensed. Fork them, modify them, ship them.
 
 - **[LinkedIn](https://linkedin.com/in/zohaib-usmani)** — Best place to reach me
 
+
 ---
 
-
-GitHub is free, open source, and stays that way.</sub>
+<sub>Local-first. No cloud. No accounts. Your data stays on your disk.</sub>
