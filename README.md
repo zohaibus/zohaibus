@@ -31,8 +31,7 @@ Each is one HTML file. No install. No cloud. Your data stays on your disk.
   A human-first workflow for managing LLM memory across sessions and models. 
   Plain text, Git-versionable, model-agnostic.
 
-- **[LocalPlan](https://github.com/zohaibus/localplan)** — Single-file 
-  project planner with local AI assistance. (More tools in the pipeline.)
+- **LocalPlan** - A single-file personal planner engineered to survive software trends. (In active development).
 
 All MIT licensed. Fork them, modify them, ship them.
 
