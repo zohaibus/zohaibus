@@ -41,10 +41,9 @@ All MIT licensed. Fork them, modify them, ship them.
 ### 📚 Background
 
 - **University of Washington** — BS/MS Electrical Engineering
-- **Stanford** — AI/ML Graduate Certificate
+- **Stanford** — AI/ML Professional Certificate
 - **MIT** — Product Management Certificate
-- **Angel investor** in AI infrastructure (Replit, Databricks, plus 3 
-  early-stage AI/edge startups)
+- **Angel investor** in AI infrastructure 
 - **Built and shipped** AI infrastructure used by 300+ engineers daily
 
 ---
