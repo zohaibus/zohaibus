@@ -16,18 +16,18 @@ transition.
 
 ### 🔧 What I'm Building
 
-**LocalOffice** — A suite of single-file, local-first productivity tools. 
+**LocalOffice** : A suite of single-file, local-first productivity tools. 
 Each is one HTML file. No install. No cloud. Your data stays on your disk.
 
-- **[LocalSheets](https://github.com/zohaibus/localsheets)** — Spreadsheet 
+- **[LocalSheets](https://github.com/zohaibus/localsheets)** : Spreadsheet 
   with a local AI panel. The AI talks only to a model on your own machine. 
   Includes templates for robotics telemetry and edge ML workflows.
 
-- **[DeckBuilder](https://github.com/zohaibus/deckbuilder)** — Presentation 
+- **[DeckBuilder](https://github.com/zohaibus/deckbuilder)** : Presentation 
   editor in a single HTML file. Ship a deck without ever opening PowerPoint 
   or Google Slides.
 
-- **[Context Protocol](https://github.com/zohaibus/context-protocol)** — 
+- **[Context Protocol](https://github.com/zohaibus/context-protocol)** : 
   A human-first workflow for managing LLM memory across sessions and models. 
   Plain text, Git-versionable, model-agnostic.
 
@@ -40,11 +40,11 @@ All MIT licensed. Fork them, modify them, ship them.
 
 ### 📚 Background
 
-- **University of Washington** — BS/MS Electrical Engineering
-- **Stanford** — AI/ML Professional Certificate
-- **MIT** — Product Management Certificate
+- **University of Washington** : BS/MS Electrical Engineering
+- **Stanford** : AI/ML Professional Certificate
+- **MIT** : Product Management Certificate
 - **Angel investor** in AI infrastructure 
-- **Built and shipped** AI infrastructure used by 300+ engineers daily
+- **Built and shipped** Shipped AI infrastructure for semiconductor engineering
 
 ---
 
@@ -60,7 +60,7 @@ All MIT licensed. Fork them, modify them, ship them.
 
 ### 📬 Connect
 
-- **[LinkedIn](https://linkedin.com/in/zohaib-usmani)** — Best place to reach me
+- **[LinkedIn](https://linkedin.com/in/zohaib-usmani)** : Best place to reach me
 
 
 ---
