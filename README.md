@@ -29,7 +29,7 @@ All tools are MIT licensed. Fork them, modify them, own your compute.
 * **Stanford University**: Artificial Intelligence Professional Program
 * **Massachusetts Institute of Technology**: Product Management Professional Program
 * **Angel Investor** in early-stage AI infrastructure and deep tech
-* **Creator** of automated AI-driven tooling for semiconductor verification workflows
+* **Creator** of automated AI-driven tooling for semiconductor industry workflows
 
 ---
 
