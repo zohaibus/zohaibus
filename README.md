@@ -5,6 +5,11 @@
 </p>
 
 <p align="center">
+  <i>From the antenna to the AI model, and the power rail to the thermal floor.<br>
+  15+ years across the full edge-compute stack: RF, analog, baseband, processors, accelerators, and the AI that runs on top.</i>
+</p>
+
+<p align="center">
   <a href="https://zohaibus.github.io/localOffice/LocalOffice.html"><img src="https://img.shields.io/badge/▶_Open_the_LocalOffice_Hub-0b7285?style=for-the-badge&logoColor=white" alt="Open the LocalOffice Hub"></a>
 </p>
 
@@ -16,7 +21,7 @@
 
 ---
 
-I've spent 15+ years shipping production silicon and AI infrastructure that runs in billions of devices (RF, modem, NPU). Now I build **local-first tools for the post-cloud transition**: software that runs entirely on your device, with no cloud, no account, and no telemetry.
+I've spent 15+ years shipping production silicon and AI infrastructure that runs in billions of devices (RF, modem, NPU). Now I also build **local-first tools for the post-cloud transition**: software that runs entirely on your device, with no cloud, no account, and no telemetry.
 
 > **The thesis: AI inference is a physical routing problem.**
 > Cloud-only AI is thermally and economically unsustainable. A fully isolated edge device hits memory-bandwidth walls. The future is a multi-tier hybrid split.
@@ -32,7 +37,7 @@ I build the local-first application layer and the deterministic kernels designed
 
 ## What I'm Building
 
-### [LocalOffice](https://github.com/zohaibus/localoffice)
+### [LocalOffice](https://github.com/zohaibus/localOffice)
 
 A suite of single-file, local-first tools on one open JSON protocol (`localoffice/v1`). Local models draft; lightweight deterministic kernels verify. No install, no cloud, your data stays on your disk.
 
